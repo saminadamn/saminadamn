@@ -7,11 +7,6 @@
 <h1 align="center">👋 Hi! I'm Samina</h1>
 <h3 align="center">a common girl with uncommon dreams! 🚀</h3>
 
-<!-- Developer Animation -->
-<p align="center">
-  <img src="https://iconscout.com/lottie-animation/girl-developer-developed-code-7136180" alt="Developer Animation" width="300" />
-</p>
-
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saminadamn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -72,3 +67,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saminadamn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
