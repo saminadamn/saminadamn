@@ -3,6 +3,11 @@
   <img src="https://media.giphy.com/media/PR957OU7L95HdIpfQM/giphy.gif" alt="Banner" width="100%">
 </div>
 
+<!-- Welcome Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%236F42C1&size=24&center=true&lines=Let%27s+Build+Together!;Welcome+to+my+Repo" alt="rotating text">
+</div>
+
 <!-- Heading -->
 <h1 align="center">👋 Hi! I'm Samina</h1>
 <h3 align="center">a common girl with uncommon dreams! 🚀</h3>
@@ -67,4 +72,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saminadamn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVkNG11bG5tNWE2YjQyZzkzcXd5dHVsNDlzcHIzanQyYXhoNHlvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cWiRJ69PVoGu7Hcg7T/giphy-downsized-large.gif" 
+       alt="pulsating animation" 
+       style="width: 80%; max-width: 800px; height: auto; border-radius: 20px; box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.6);">
+</div>
 
