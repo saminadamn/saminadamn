@@ -1,11 +1,11 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="[https://media.giphy.com/media/PR957OU7L95HdIpfQM/giphy.gif](https://in.pinterest.com/pin/820429257143468191/)" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt="Banner" width="100%">
 </div>
 
 <!-- Welcome Text -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%236F42C1&size=24&center=true&lines=Building+Tech+for+a+Better+Tomorrow!;Welcome+to+my+Repo" alt="rotating text">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%236F42C1&size=24&center=true&lines=Building+Tech+for+a+Better+Tomorrow!;Welcome+to+my+Repo" alt="Rotating Welcome Text">
 </div>
 
 <!-- Heading -->
@@ -18,11 +18,13 @@
 </p>
 
 <!-- About Me -->
-- 🌱 I’m diving deeper into **React** and **LLMs**  
-- 💬 Ask me about **AI, Data Science, and Full-Stack Development**  
-- 📫 Reach me at: **saminaparveen2005@gmail.com**  
-- 📄 Know about my experiences: [My Portfolio](https://drive.google.com/drive/folders/17Zy9hp5GuhcQppxH5FyBb8B_K5NJJi7k?usp=sharing)  
-- ⚡ Fun fact: **I started a mental health platform and podcast called Inertia Teens**
+<ul>
+  <li>🌱 I’m diving deeper into <strong>React</strong> and <strong>LLMs</strong></li>
+  <li>💬 Ask me about <strong>AI, Data Science, and Full-Stack Development</strong></li>
+  <li>📫 Reach me at: <strong>saminaparveen2005@gmail.com</strong></li>
+  <li>📄 Know about my experiences: <a href="https://drive.google.com/drive/folders/17Zy9hp5GuhcQppxH5FyBb8B_K5NJJi7k?usp=sharing" target="_blank"><strong>My Portfolio</strong></a></li>
+  <li>⚡ Fun fact: <strong>I started a mental health platform and podcast called Inertia Teens as a teen!</strong></li>
+</ul>
 
 <!-- Connect with Me -->
 <h3 align="center">🌐 Connect with me:</h3>
@@ -73,8 +75,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saminadamn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+<!-- Final GIF (Optional) -->
+<!--
 <div align="center">
-  <img src="https://giphy.com/gifs/end-final-analogue-3oFzmqN1xHwaEXGl7q" 
-       alt="pulsating animation" 
+  <img src="https://media.giphy.com/media/3oFzmqN1xHwaEXGl7q/giphy.gif" 
+       alt="Final Animation" 
        style="width: 80%; max-width: 800px; height: auto; border-radius: 20px; box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.6);">
 </div>
+-->
