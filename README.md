@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/PR957OU7L95HdIpfQM/giphy.gif" alt="Banner" width="100%">
+  <img src="[https://media.giphy.com/media/PR957OU7L95HdIpfQM/giphy.gif](https://in.pinterest.com/pin/820429257143468191/)" alt="Banner" width="100%">
 </div>
 
 <!-- Welcome Text -->
@@ -18,12 +18,11 @@
 </p>
 
 <!-- About Me -->
-- 🔭 I’m currently working on [Urban Heat Island Monitoring and Priority Analysis Platform](https://github.com/saminadamn/urbanheatisland)  
-- 🌱 I’m diving deeper into **React** and **Web Development**  
+- 🌱 I’m diving deeper into **React** and **LLMs**  
 - 💬 Ask me about **AI, Data Science, and Full-Stack Development**  
 - 📫 Reach me at: **saminaparveen2005@gmail.com**  
 - 📄 Know about my experiences: [My Portfolio](https://drive.google.com/drive/folders/17Zy9hp5GuhcQppxH5FyBb8B_K5NJJi7k?usp=sharing)  
-- ⚡ Fun fact: **I love exploring UI/UX design trends!**
+- ⚡ Fun fact: **I started a mental health platform and podcast called Inertia Teens**
 
 <!-- Connect with Me -->
 <h3 align="center">🌐 Connect with me:</h3>
@@ -75,7 +74,7 @@
 </p>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVkNG11bG5tNWE2YjQyZzkzcXd5dHVsNDlzcHIzanQyYXhoNHlvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cWiRJ69PVoGu7Hcg7T/giphy-downsized-large.gif" 
+  <img src="https://giphy.com/gifs/end-final-analogue-3oFzmqN1xHwaEXGl7q" 
        alt="pulsating animation" 
        style="width: 80%; max-width: 800px; height: auto; border-radius: 20px; box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.6);">
 </div>
