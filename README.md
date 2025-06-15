@@ -1,23 +1,23 @@
-<!-- Banner Section -->
-<div align="center">
+<!-- Starry Background Wrapper -->
+<div align="center" style="background-color: #000; padding: 20px 0; background-image: url('https://i.gifer.com/7VE.gif'); background-size: cover; background-repeat: repeat-x; background-position: center;">
+
+  <!-- Banner GIF -->
   <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt="Banner" width="100%">
+
+  <!-- Welcome Typing Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00FF00&size=24&center=true&lines=Building+Tech+for+a+Better+Tomorrow!;Welcome+to+my+Repo" alt="Rotating Welcome Text">
+
+  <!-- Main Heading -->
+  <h1 style="color: #FFFFFF;">👋 Hi! I'm Samina</h1>
+  <h3 style="color: #DDDDDD;">A passionate Computer Science student exploring the world of tech! 🚀</h3>
+
+  <!-- Profile Views -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=saminadamn&label=Profile%20views&color=00FF00&style=flat" alt="Profile Views" />
+  </p>
 </div>
 
-<!-- Welcome Text -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%236F42C1&size=24&center=true&lines=Building+Tech+for+a+Better+Tomorrow!;Welcome+to+my+Repo" alt="Rotating Welcome Text">
-</div>
-
-<!-- Heading -->
-<h1 align="center">👋 Hi! I'm Samina</h1>
-<h3 align="center">A passionate Computer Science student exploring the world of tech! 🚀</h3>
-
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saminadamn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<!-- About Me -->
+<!-- About Me Section -->
 <ul>
   <li>🌱 I’m diving deeper into <strong>React</strong> and <strong>LLMs</strong></li>
   <li>💬 Ask me about <strong>AI, Data Science, and Full-Stack Development</strong></li>
@@ -66,20 +66,11 @@
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saminadamn&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saminadamn&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saminadamn" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saminadamn&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saminadamn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saminadamn&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<!-- Final GIF (Optional) -->
-<!--
-<div align="center">
-  <img src="https://media.giphy.com/media/3oFzmqN1xHwaEXGl7q/giphy.gif" 
-       alt="Final Animation" 
-       style="width: 80%; max-width: 800px; height: auto; border-radius: 20px; box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.6);">
-</div>
--->
