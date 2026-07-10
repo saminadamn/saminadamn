@@ -25,6 +25,9 @@ Currently exploring distributed systems, scalable APIs, and production-grade bac
 2. **Flipkart GRiD Gridlock 2.0** — built Namma Traffic with team ML Baddies.
 3. **Amazon ML Summer School '26** — selected participant.
    
+## Open Source Contribution
+HotSM (OpenStreetMap Toolkit)[https://github.com/hotosm/field-tm/issues]
+Contributed documentation and geospatial improvements to HotSM projects.
 ## Merged / Active Contributions
 - docs: Excel & Power BI OData Visualization Guide
 - docs: QField Project Creation Workflow
