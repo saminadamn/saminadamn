@@ -24,7 +24,12 @@ Currently exploring distributed systems, scalable APIs, and production-grade bac
 1. **Smart India Hackathon 2025 — Grand Finalist** (Dhansetu).
 2. **Flipkart GRiD Gridlock 2.0** — built Namma Traffic with team ML Baddies.
 3. **Amazon ML Summer School '26** — selected participant.
-
+   
+## Merged / Active Contributions
+- docs: Excel & Power BI OData Visualization Guide
+- docs: QField Project Creation Workflow
+- fix(splitter): Handle Polygons with Connected Rings
+  
 ## Activity
 [![Samina's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=saminadamn&theme=github-light&hide_border=true&hide_title=true&area=true)](https://github.com/saminadamn)
 ![snake gif](https://raw.githubusercontent.com/saminadamn/saminadamn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
