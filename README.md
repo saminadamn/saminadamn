@@ -6,8 +6,6 @@ BIT Mesra CSE '27 · Software Engineer · Backend Engineer · Software Engineeri
 [![Email](https://img.shields.io/badge/saminaparveen2005@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saminaparveen2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saminaparveen1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/samdbest/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/saminadamn)
-
 I build scalable backend applications, REST APIs, and data-driven software using Python, FastAPI, PostgreSQL, and modern cloud technologies. I'm interested in writing clean, scalable code and solving real-world engineering problems through reliable software.
 Currently exploring distributed systems, scalable APIs, and production-grade backend engineering.
 
